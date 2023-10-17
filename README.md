@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Vítor, a passionate game developer from Brazil.
+I'm Vítor Haeser Ramirez, a passionate game developer from Brazil.
 
 ## About Me
 - 🇧🇷 I'm a brazilian with big dreams!
