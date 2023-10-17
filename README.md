@@ -1,21 +1,20 @@
-![320](https://github.com/VitinhoFOX/VitinhoFOX/assets/148167336/d20aa5ef-29ef-461b-9c4c-20ac1f527168)
+<img src="https://github.com/VitinhoFOX/VitinhoFOX/assets/148167336/d20aa5ef-29ef-461b-9c4c-20ac1f527168" width="150" height="150" alt="Dash 'n' Fox Logo">
 
 # Hi there! 👋
 
 I'm Vítor, a passionate game developer from Brazil.
 
 ## About Me
-- 🇧🇷 I'm proudly Brazilian!
-- 🎮 Currently, I'm working on a game called **Dash 'n' Fox**.
+- 🇧🇷 I'm a brazilian with big dreams!
+- 🎮 Currently, I'm working on a project called **Dash 'n' Fox**.
+- I am currently making my game in GameMaker but i'm migrating to Unity.
 
 ## About Dash 'n' Fox
-**Dash 'n' Fox** is an exciting project that I've been working on. It's a game that promises to provide players with thrilling adventures and challenges. Stay tuned for updates and exciting developments on this game.
+**Dash 'n' Fox** is something that I've been working on. It's a platform 2d game which the protagonist is a fox!
 
 ## Contact Me
-Feel free to reach out to me if you have any questions, want to collaborate, or just want to chat about game development:
+Feel free to reach out to me:
 
-- Email: your.email@example.com
-- Twitter: [Vítor's Twitter](https://twitter.com/your_twitter_handle)
-- LinkedIn: [Vítor's LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: vitor.ramirez010@gmail.com
 
-Thanks for stopping by! 😄
+Thanks for stopping by!
