@@ -5,7 +5,7 @@
 I'm Vítor Haeser Ramirez, a passionate game developer from Brazil.
 
 ## About Me
-- 🇧🇷 I'm a brazilian with big dreams!
+- 🇧🇷 I'm a Brazilian with big dreams!
 - 🎮 Currently, I'm working on a project called **Dash 'n' Fox**.
 - I am learning how to program in GameMaker.
 
